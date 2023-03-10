@@ -24,7 +24,7 @@ $ npm install ts-node-dev
 
 :balloon: Segunda linha: iniciamos e configuramos o TypeScript no projeto;
 
-:balloon: Terceira linha: instalamos a dependência que nos permite executar o script ts;
+:balloon: Terceira linha: instalamos a dependência que nos permite executar o script ts.
 
 Agora, sendo `index.ts` o nome do nosso arquivo principal, podemos executar nosso projeto simplesmente digitando o seguinte comando:
 
