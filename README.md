@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## :bank: Projeto XBank
 
 O XBank é um protótipo que simula transações bancárias e foi construído em TypeScript puro.
